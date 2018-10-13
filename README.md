@@ -1,6 +1,7 @@
 # FuckPSSE  
-  
-Add FuckPSSE.suprx to \*ALL  
+
+To install:  
+    Add FuckPSSE.suprx to \*ALL  
   
 when you run a PSM game, the screen will go RED.. While the screen is RED. the game files are being dumped  
   
