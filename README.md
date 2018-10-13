@@ -30,7 +30,6 @@ Credits:
 Main Developer: SilicaAndPina  
 PSM_Handle Help: [DOTS_TB](https://twitter.com/dots_tb)  
 Biggest Tester: [@FUCK_S3CURITY](https://twitter.com/FUCK_S3CURITY)  
-
-*This is a public beta, it might break shit.*
-Download v0.1 FuckPSSE.suprx:
+  
+Download v0.1 FuckPSSE.suprx:  
 https://bitbucket.org/SilicaAndPina/fuckpsse/downloads/FuckPSSE.suprx
