@@ -9,4 +9,6 @@ There is no progess indicaton (doing pretty much anything requires aditional DLL
 however. once it is done, the screen will go GREEN at this point you can close out of the game.
 and look in the ux0:/PSM/<TITLEID>/Documents/ folder and there will be a complete (Now decrypted) mirror of the Application/ folder.
 
-If you wanna use it in the PSM Simulator. i found it doesnt like me if i keep the original .edata file, so you may have to rename that ^-^
+If you wanna use it in the PSM Simulator. i found it doesnt like me if i keep the original .edata file, so you may have to rename that
+
+PS: I like to see girls die.
