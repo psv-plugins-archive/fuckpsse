@@ -97,14 +97,6 @@ char *pss_crypto_read_p(PSM_handle *handle, int ctx) {
 	return 0;
 }
 
-int pss_io_open_p(int arg1, int arg2, int arg3) {
-	sceClibPrintf("[FuckPSSE] Before Run:  pss_io_open() %x %x %x \n",arg1,arg2,arg3);
-	int ret;
-	ret = TAI_CONTINUE(int, OpenHook_ref, arg1, arg2, arg3);
-	sceClibPrintf("[FuckPSSE] After Run pss_io_open() %x %x %x ret: %x\n",arg1,arg2,arg3 ,ret);
-	return ret;
-}
-
 
 SceUID sceKernelLoadStartModule_p(char *path, SceSize args, void *argp, int flags, SceKernelLMOption *option, int *status)
 {
