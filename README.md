@@ -23,7 +23,9 @@ What this will enable:
 What this will NOT enable  
 1) Vita Game Emulation (no. j-just stop the simulator isnt even emulating anything)  
 2) Running PSM games you dont have a license for (dumper requires you to *RUN* the game in the first place!)  
+3) PSM Dev or PSM Unity applications.  
   
-Have Fun ^-^  
-  
-PS: I like to see girls die.  
+Credits:  
+Main Developer: SilicaAndPina  
+PSM_Handle Help: [DOTS_TB](https://twitter.com/dots_tb)  
+Biggest Tester: [@FUCK_S3CURITY](https://twitter.com/FUCK_S3CURITY)  
