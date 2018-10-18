@@ -1,6 +1,6 @@
 # Releases:
 # v1.1:
-+ Moved dump folder to ux0:PSM/TitleID/RW/Temp instead of ux0:PSM/TitleID/RW/Documents/Application (To make it impossible to hit the Path Limit)  
++ Moved dump folder to ux0:PSM/TitleID/RW/Temp instead of ux0:PSM/TitleID/RW/Documents/Application (This acturally improves compadibility for some reason)  
 + Improved memory usage in the dumper itself, - improved directory walking and copy method can now handle larger files.  
 + Both these changes fixes an issue with dumping Large PSM games (eg: Cytus Lambda) fixes Issue #1  
 Download: https://bitbucket.org/SilicaAndPina/fuckpsse/downloads/FuckPSSEv1.1.suprx  
