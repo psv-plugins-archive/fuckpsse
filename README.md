@@ -36,6 +36,11 @@ What this will NOT enable
 2) Running PSM games you dont have a license for (dumper requires you to *RUN* the game in the first place!)  
 3) PSM Dev or PSM Unity applications.  
   
+How to unset system attribute (thanks vitashell)  
+open CMD in the folder. type "attrib -S -H /S /D" and press enter.  
+this'll un-set all the files and folders as SYSTEM  
+probably not needed if you grab the files over FTP.   
+
 Credits:  
 Main Developer: SilicaAndPina  
 PSM_Handle Help: [DOTS_TB](https://twitter.com/dots_tb)  
