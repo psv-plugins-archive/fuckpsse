@@ -43,5 +43,5 @@ probably not needed if you grab the files over FTP.
 
 Credits:  
 Main Developer: SilicaAndPina  
-PSM_Handle Help: [DOTS_TB](https://twitter.com/dots_tb)  
+PSM_Handle Help: [@DOTS_TB](https://twitter.com/dots_tb)  
 Biggest Tester: [@FUCK_S3CURITY](https://twitter.com/FUCK_S3CURITY)  
