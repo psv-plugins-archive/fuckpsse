@@ -1,4 +1,9 @@
 # Releases:
+    
+THIS PLUGIN IS ONLY USEFUL FOR DEVELOPERS AND THOSE WHO WANT TO MOD PSM GAMES~    
+INSTALLING THIS PLUGIN WILL MAKE PSM GAMES UNPLAYABLE (RED SCREEN) UNTIL IT IS REMOVED    
+AS THIS PLUGIN INJECTS A DUMPER OVER THE GAMES MAIN EXECUTABLE    
+    
 # v1.1:
 + Moved dump folder to ux0:PSM/TitleID/RW/Temp instead of ux0:PSM/TitleID/RW/Documents/Application (This acturally improves compadibility for some reason)  
 + Improved memory usage in the dumper itself, - improved directory walking and copy method can now handle larger files.  
